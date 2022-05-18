@@ -44,4 +44,3 @@ jobs:
       - name: deploying on surge
         run: surge ./build https://leadinguniversity.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
         
-

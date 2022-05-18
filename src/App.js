@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Leading University
+          Welcome to Leading University. UMS testing part is on going
         </p>
         <a
           className="App-link"
